@@ -10,7 +10,7 @@ Formalmente, dados _N_ números enteros positivos, encuentra si existe un númer
 
 - La primera línea contiene _T_, número de casos de prueba. Cada caso de prueba consta de 2 líneas.
 - La primera línea de cada caso de prueba consta de un entero positivo _N_, que denota el número de enteros positivos que tiene Chef.
-- La segunda línea de cada caso de prueba contiene _N_ enteros separados por espacios *$A_i$*, cada uno de los cuales denota un entero que Chef tiene consigo.
+- La segunda línea de cada caso de prueba contiene _N_ enteros separados por espacios _Ai_, cada uno de los cuales denota un entero que Chef tiene consigo.
 
 ### Salida
 
@@ -18,9 +18,9 @@ Por cada caso de prueba, si existe un número impar, imprime **"YES"** en una l�
 
 ### Limitaciones
 
-- 1 ≤ _T_ ≤ $10^3$
-- 1 ≤ _N_ ≤ $10^3$
-- 1 ≤ *$A_i$* ≤ $10^3$
+- 1 ≤ _T_ ≤ 10^3
+- 1 ≤ _N_ ≤ 10^3
+- 1 ≤ _Ai_ ≤ 10^3
 
 ### Entrada de muestra
 
