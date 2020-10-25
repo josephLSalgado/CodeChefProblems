@@ -1,6 +1,10 @@
-# Solución a problemas de la plataforma de CodeChef <img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" width="85">
+# Solución a problemas de la plataforma de CodeChef
 
-Problemas que he resuelto en la plataforma de CodeChef, esto con la finalidad de mejorar mis habilidades en programación 👨🏿‍💻. Por el momento las soluciones están hechas sólo en `Python`.
+<p align="center">
+   <img src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" width="300">
+</p>
+
+Problemas que he resuelto en la plataforma de CodeChef, esto con la finalidad de mejorar mis habilidades en programación 👨🏿‍💻. Por el momento las soluciones están hechas sólo en `Python` ❤.
 
 ## Contenido :notebook:
 
